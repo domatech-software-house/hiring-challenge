@@ -9,6 +9,7 @@ Alguns requisitos:
 
 - Deve ser uma aplicação nova;
 - A solução deve estar em um repositório público do GitHub;
+- O front-end deve ser separado do back-end;
 - A aplicação deve armazenar as informações encontradas;
 - Utilizar MySQL, Postgres ou MongoDB;
 
