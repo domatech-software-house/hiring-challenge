@@ -1,8 +1,9 @@
 # Desafio técnico para desenvolvedores
 
-Construir uma aplicação utilizando um framework de sua escolha (Node.js, Laravel, etc.), a qual deverá se conectar na API do [VIA CEP](https://viacep.com.br/) e disponibilizar as seguintes funcionalidades:
+Construir uma aplicação utilizando Node.js e React.js, a qual deverá se conectar na API do [VIA CEP](https://viacep.com.br/) e [GitHub](https://api.github.com/),  disponibilizando as seguintes funcionalidades:
 
-- Botão para buscar e armazenar os dados;
+- Campos de usuário e cep;
+- Buscar e armazenar os dados nas APIs;
 - Listar os dados salvos;
 
 Alguns requisitos:
