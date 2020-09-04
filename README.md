@@ -3,7 +3,7 @@
 Construir uma aplicação utilizando Node.js e React.js, a qual deverá se conectar na API do [VIA CEP](https://viacep.com.br/) e [GitHub](https://api.github.com/),  disponibilizando as seguintes funcionalidades:
 
 - Campos de usuário e cep;
-- Buscar e armazenar os dados nas APIs;
+- Buscar e armazenar os dados das APIs;
 - Listar os dados salvos;
 
 Alguns requisitos:
